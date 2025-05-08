@@ -1,0 +1,6 @@
+dopant,atomic_number,electronegativity,bandgap_shift
+B,5,2.04,-0.1
+N,7,3.04,0.05
+P,15,2.19,-0.08
+As,33,2.18,-0.07
+Sb,51,2.05,-0.05
