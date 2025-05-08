@@ -84,12 +84,16 @@ MAE (Mean Absolute Error)
 R² Score (Coefficient of Determination)
 
 
+
+
 📌 Use Cases
 Pre-screen dopants for semiconductors or insulators
 
 Assist in material design with AI tools
 
 Integrate ML in solid-state device simulation pipelines
+
+check it in:http://localhost:8501/
 
 
 👨‍💻 Author
